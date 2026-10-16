@@ -24,7 +24,8 @@ anything the pack does not cover simply plays the original Korean.
 
 1. Extract the Release archive into the game's main directory
 2. Run game - booting will take a little longer first time, as it generates its directories
-3. Game menu - set 'Settings > Sound > Voice Language: Korean' (Japanese should work, but English audio matches Korean voices)
+3. Game menu - set 'Settings > Sound > Voice Language: Korean' 
+   (Japanese should also work, but English audio matches Korean voices)
 4. Start the game - the first spoken line should be in English
 
 Do not copy a config file from anywhere: the plugin writes
