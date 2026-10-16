@@ -17,13 +17,13 @@ anything the pack does not cover simply plays the original Korean.
 | | |
 |---|---|
 | Game | *WitchSpring R* (tested against **v1.109**, Steam) |
-| Loader | **BepInEx 6 (IL2CPP)** — included in Release file
+| Loader | **BepInEx 6 (IL2CPP)** - included in [Release file](https://github.com/drhouse/WitchspringR-English-Voice-Mod/releases/download/v1/WitchspringR-English-Voice-Mod.rar)
 | Platform | Windows |
 
 ## Installing
 
 1. Extract the Release archive into the game's main directory
-2. Run the game - booting will take a little longer first time, as it generates its directories
+2. Run game - booting will take a little longer first time, as it generates its directories
 3. Game menu - set 'Settings > Sound > Voice Language: Korean'
 4. Start the game - the first spoken line should be in English
 
