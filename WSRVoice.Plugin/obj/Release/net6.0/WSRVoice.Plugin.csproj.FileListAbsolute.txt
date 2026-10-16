@@ -1,0 +1,16 @@
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\bin\Release\net6.0\WSRVoice.deps.json
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\bin\Release\net6.0\WSRVoice.dll
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\bin\Release\net6.0\WSRVoice.pdb
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\bin\Release\net6.0\NVorbis.dll
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\bin\Release\net6.0\WSRVoice.Core.dll
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\bin\Release\net6.0\WSRVoice.Core.pdb
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\WSRVoice.Plugin.csproj.AssemblyReference.cache
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\WSRVoice.Plugin.GeneratedMSBuildEditorConfig.editorconfig
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\WSRVoice.Plugin.AssemblyInfoInputs.cache
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\WSRVoice.Plugin.AssemblyInfo.cs
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\WSRVoice.Plugin.csproj.CoreCompileInputs.cache
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\WSRVoice.51987100.Up2Date
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\WSRVoice.dll
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\refint\WSRVoice.dll
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\WSRVoice.pdb
+V:\projects\wsr-voice-mod\plugin\WSRVoice.Plugin\obj\Release\net6.0\ref\WSRVoice.dll

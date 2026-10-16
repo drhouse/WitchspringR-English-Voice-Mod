@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aaKeGch79Sk=",
+  "success": true,
+  "projectFilePath": "V:\\projects\\wsr-voice-mod\\plugin\\WSRVoice.Plugin\\WSRVoice.Plugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEBASER\\.nuget\\packages\\nvorbis\\0.10.5\\nvorbis.0.10.5.nupkg.sha512",
+    "C:\\Users\\DEBASER\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\DEBASER\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
