@@ -17,7 +17,7 @@ anything the pack does not cover simply plays the original Korean.
 | | |
 |---|---|
 | Game | *WitchSpring R* (tested against **v1.109**, Steam) |
-| Loader | **BepInEx 6 (IL2CPP)** - included in [Release file](https://github.com/drhouse/WitchspringR-English-Voice-Mod/releases/download/v1/WitchspringR-English-Voice-Mod.rar)
+| Loader | **BepInEx 6 (IL2CPP)** - included in [Release file](https://github.com/drhouse/WitchspringR-English-Voice-Mod/releases)
 | Platform | Windows |
 
 ## Installing
