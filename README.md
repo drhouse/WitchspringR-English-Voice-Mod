@@ -1,4 +1,4 @@
-# WitchSpring R — English Voice Mod
+# WitchSpring R - English Voice Mod
 
 English voice-over for every spoken line in *WitchSpring R*, produced by
 cross-lingually cloning the game's own Korean voice actors so each character
