@@ -1,0 +1,285 @@
+<html lang="en-US" data-qb-installed="true"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>WitchSpring R - English Voice Mod | WitchspringR-English-Voice-Mod</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="WitchSpring R - English Voice Mod">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="WitchSpring R - English Voice Mod">
+<meta property="og:description" content="WitchSpring R - English Voice Mod">
+<link rel="canonical" href="https://drhouse.github.io/WitchspringR-English-Voice-Mod/">
+<meta property="og:url" content="https://drhouse.github.io/WitchspringR-English-Voice-Mod/">
+<meta property="og:site_name" content="WitchspringR-English-Voice-Mod">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="WitchSpring R - English Voice Mod">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"WitchSpring R - English Voice Mod","headline":"WitchSpring R - English Voice Mod","name":"WitchspringR-English-Voice-Mod","url":"https://drhouse.github.io/WitchspringR-English-Voice-Mod/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <style class="anchorjs"></style><link rel="stylesheet" href="/WitchspringR-English-Voice-Mod/assets/css/style.css?v=884dd2d25d6f44894ed12ad6a3588b8fc2bc0243">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/WitchspringR-English-Voice-Mod/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  <style>
+    ::highlight(selection_highlighter_highlighted_selection) {
+      background-color: rgba(255,255,0,1);
+      color: rgba(0,0,0,1);
+    }
+    @media (prefers-color-scheme: dark) {
+      ::highlight(selection_highlighter_highlighted_selection) {
+        background-color: rgba(255,0,255,0.8);
+      color: rgba(255,255,255,1);
+      }
+    }
+    .selection_highlighter_scroll_markers {
+      pointer-events: none;
+      position: fixed;
+      z-index: 2147483647;
+      top: 0;
+      right: 0;
+      width: 16px;
+      height: 100vh;
+    }
+  </style></head>
+  <body cz-shortcut-listen="true"><svg style="display: none;"><filter id="_videostyler_filter_"></filter></svg>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://drhouse.github.io/WitchspringR-English-Voice-Mod/">WitchspringR-English-Voice-Mod</a></h1>
+      
+
+      <h1 id="witchspring-r---english-voice-mod">WitchSpring R - English Voice Mod</h1>
+
+<p>English voice-over for every spoken line in <em>WitchSpring R</em>, produced by
+cross-lingually cloning the game’s own Korean voice actors so each character
+keeps their own voice while speaking English.</p>
+
+<p><strong>11,856 clips · 119 speakers · ~470 MB</strong></p>
+
+<p>The game’s Korean audio is untouched. The plugin intercepts the game’s own
+voice lookup and substitutes a matching English clip when one exists, so
+anything the pack does not cover simply plays the original Korean.</p>
+
+<hr>
+<iframe
+      src="https://www.youtube.com/embed/4TGWJj0U9vk"
+      title="Gameplay demo"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+<h2 id="requirements">Requirements<a class="anchorjs-link " href="#requirements" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Game</td>
+      <td><em>WitchSpring R</em> (tested against <strong>v1.109</strong>, Steam)</td>
+    </tr>
+    <tr>
+      <td>Loader</td>
+      <td><strong>BepInEx 6 (IL2CPP)</strong> - included in <a href="https://github.com/drhouse/WitchspringR-English-Voice-Mod/releases">Release file</a></td>
+    </tr>
+    <tr>
+      <td>Platform</td>
+      <td>Windows</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="installing">Installing<a class="anchorjs-link " href="#installing" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<ol>
+  <li>Extract the Release archive into the game’s main directory</li>
+  <li>Run game - booting will take a little longer first time, as it generates its directories</li>
+  <li>Game menu - set ‘Settings &gt; Sound &gt; Voice Language: Korean’ <br>
+(Japanese should also work, but English audio matches Korean voices)</li>
+  <li>Start the game - the first spoken line should be in English</li>
+</ol>
+
+<p>Do not copy a config file from anywhere: the plugin writes
+<code class="language-plaintext highlighter-rouge">BepInEx/config/wsr.englishvoice.cfg</code> on first run with paths correct for
+<em>your</em> installation.</p>
+
+<h2 id="configuration">Configuration<a class="anchorjs-link " href="#configuration" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<p><code class="language-plaintext highlighter-rouge">BepInEx/config/wsr.englishvoice.cfg</code>, created on first launch:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Setting</th>
+      <th>Default</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">Enabled</code></td>
+      <td><code class="language-plaintext highlighter-rouge">true</code></td>
+      <td><code class="language-plaintext highlighter-rouge">false</code> plays the original Korean audio</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">PackDirectory</code></td>
+      <td><code class="language-plaintext highlighter-rouge">&lt;BepInEx&gt;/english-voice</code></td>
+      <td>Where the <code class="language-plaintext highlighter-rouge">.ogg</code> clips live</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">LogUnmatchedIds</code></td>
+      <td><code class="language-plaintext highlighter-rouge">false</code></td>
+      <td>debug: Logs any clip id the pack lacks, once each</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">MirrorGameLog</code></td>
+      <td><code class="language-plaintext highlighter-rouge">false</code></td>
+      <td>debug: Copies the game’s log lines into the plugin log</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Leave the two diagnostic settings off unless you are reporting a problem.</p>
+
+<h2 id="uninstalling">Uninstalling<a class="anchorjs-link " href="#uninstalling" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<p>Delete the three DLLs from <code class="language-plaintext highlighter-rouge">BepInEx/plugins/</code> and the <code class="language-plaintext highlighter-rouge">BepInEx/english-voice/</code>
+folder, or simply set <code class="language-plaintext highlighter-rouge">Enabled = false</code>. No game file is ever modified.</p>
+
+<h2 id="what-is-and-is-not-covered">What is and is not covered<a class="anchorjs-link " href="#what-is-and-is-not-covered" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<ul>
+  <li><strong>Covered:</strong> every line with a script entry and a speaking character.</li>
+  <li><strong>Not covered:</strong> nine lines from three non-speaking characters, and clips
+that are sound effects rather than speech (animal noises, Korean
+“translation not required” placeholders) — these deliberately keep the
+game’s original audio, because hearing an English voice read “Oink!” aloud
+is worse than the original.</li>
+  <li>Some character and place names are respelled phonetically so the voice says
+them the way the game’s English text implies, rather than the way an English
+reader would guess.</li>
+</ul>
+
+<h2 id="known-limitations">Known limitations<a class="anchorjs-link " href="#known-limitations" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<ul>
+  <li>Pronunciation is right roughly 98% of the time. The remaining cases are
+mostly invented names and interjections.</li>
+  <li>A few interjections (“Hmph”, “Pfft”) are approximated, since a cloned voice
+reading a written-out grunt is not the same as a recorded grunt.</li>
+  <li>Line delivery follows the text, not the original Korean performance’s timing,
+so a clip occasionally runs longer or shorter than the Korean take.</li>
+</ul>
+
+<h2 id="credits-and-legal">Credits and legal<a class="anchorjs-link " href="#credits-and-legal" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<ul>
+  <li>Original voice performances, script and audio: <strong>ZeiGames / Kiwiwalks</strong>,
+the creators of <em>WitchSpring R</em>. All rights to the original work remain
+theirs.</li>
+  <li>The English clips are derived from the game’s own audio using open-source
+speech models. This is an unofficial, non-commercial fan modification.</li>
+  <li>Ogg Vorbis decoding in-game: <a href="https://github.com/NVorbis/NVorbis">NVorbis</a>
+(MIT).</li>
+  <li>Mod loader: BepInEx 6.0.0-be.788, redistributed unmodified under LGPL-2.1</li>
+</ul>
+
+<h2 id="reporting-a-wrong-line">Reporting a wrong line<a class="anchorjs-link " href="#reporting-a-wrong-line" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<p>The useful details are the <strong>clip id</strong> and what you heard. Set
+<code class="language-plaintext highlighter-rouge">LogUnmatchedIds = true</code> and <code class="language-plaintext highlighter-rouge">MirrorGameLog = true</code>, reproduce the line, and
+attach <code class="language-plaintext highlighter-rouge">BepInEx/wsr-english-voice.log</code>; the id appears next to the lookup.</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+
+<div id="give-freely-root-kkkbiiikppgjdiebcabomlbidfodipjg" class="give-freely-root" data-extension-id="kkkbiiikppgjdiebcabomlbidfodipjg" data-extension-name="Substital: Add subtitles to videos and movies" style="display: block;"></div><tts-reader-inline-btn data-theme="dark" style="position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; z-index: 99999998; pointer-events: none; opacity: 0; transition: opacity 200ms; visibility: visible; display: block; margin: 0px; padding: 0px; transform: translate3d(430.5px, 281.188px, 0px);"></tts-reader-inline-btn><canvas class="selection_highlighter_scroll_markers" width="16" height="967"></canvas><better-previews-tooltip><style>/* Floatie CSS */
+#sp-floatie-container {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #222222;
+  color: white;
+  border-radius: 4px;
+  padding: 2px;
+  font-size: 11px;
+  font-family: sans-serif;
+}
+
+#sp-floatie-arrow {
+  position: absolute;
+  background: rgb(255, 34, 34);
+  background: linear-gradient(
+    -45deg,
+    rgba(34, 34, 34, 1) 0%,
+    rgba(34, 34, 34, 1) 51%,
+    rgba(0, 0, 0, 0) 53%,
+    rgba(0, 0, 0, 0) 80%
+  );
+  width: 8px;
+  height: 8px;
+  transform: rotate(45deg);
+}
+
+.sp-floatie-action {
+  display: block;
+  background-color: #222222;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin: 0 0 !important;
+}
+
+.hide-1 {
+  transition: opacity 2s;
+  opacity: 0;
+}
+.hide-2 {
+  transition: opacity 3s;
+  opacity: 0;
+}
+.hide-3 {
+  transition: opacity 4s;
+  opacity: 0;
+}
+.hide-4 {
+  transition: opacity 5s;
+  opacity: 0;
+}
+.hide-5 {
+  transition: opacity 6s;
+  opacity: 0;
+}
+
+.sp-floatie-action:hover {
+  background-color: #777;
+}
+</style>
+        <div id="sp-floatie-container" style="display: none;">
+            <div id="sp-floatie-arrow"></div>
+            <div id="sp-floatie-search" class="sp-floatie-action" data-action="search" style="display: none;">Search</div>
+            <div id="sp-floatie-preview" class="sp-floatie-action" data-action="preview" style="display: none;">Preview</div>
+                        <div id="sp-floatie-copy" class="sp-floatie-action" data-action="copy" style="display: none;">Copy</div>
+        </div>
+        </better-previews-tooltip></body></html>
