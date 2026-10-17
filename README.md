@@ -91,8 +91,13 @@ folder, or simply set `Enabled = false`. No game file is ever modified.
 - The English clips are derived from the game's own audio using open-source
   speech models. This is an unofficial, non-commercial fan modification. 
 - Ogg Vorbis decoding in-game: [NVorbis](https://github.com/NVorbis/NVorbis)
-  (MIT).
-- Mod loader: BepInEx 6.0.0-be.788, redistributed unmodified under LGPL-2.1
+  (MIT) — see `LICENSE.NVorbis-MIT.txt`.
+- **Bundled** mod loader and injector, both redistributed unmodified under
+  LGPL-2.1 — [BepInEx](https://github.com/BepInEx/BepInEx) 6.0.0-be.788
+  (IL2CPP) and [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop)
+  4.5.0. Attribution and the upstream source locations are in
+  [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md); the full licence text is in
+  `LICENSE.LGPL-2.1.txt`.
 
 ## Reporting a wrong line
 
