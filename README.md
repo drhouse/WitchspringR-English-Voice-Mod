@@ -11,6 +11,8 @@ voice lookup and substitutes a matching English clip when one exists, so
 anything the pack does not cover simply plays the original Korean.
 
 ---
+YouTube video preview:
+[![Watch the video](https://img.youtube.com/vi/4TGWJj0U9vk/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Requirements
 
