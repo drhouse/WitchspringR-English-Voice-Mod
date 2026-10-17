@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=4TGWJj0U9vk
 | | |
 |---|---|
 | Game | *WitchSpring R* (tested against **v1.109**, Steam) |
-| Loader | **BepInEx 6 (IL2CPP)** - included in [Release file](https://github.com/drhouse/WitchspringR-English-Voice-Mod/releases)
+| Loader | **BepInEx 6 (IL2CPP)** - included in [Release file](https://github.com/drhouse/WitchspringR-English-Voice-Mod/releases/latest)
 | Platform | Windows |
 
 ## Installing
