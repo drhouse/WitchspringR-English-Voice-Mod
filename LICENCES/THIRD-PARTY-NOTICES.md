@@ -1,6 +1,6 @@
 # Third-party notices
 
-This mod **redistributes** the two components below so that installation is a
+This mod **redistributes** the two components so that installation is a
 single extract. Both are licensed under the **GNU Lesser General Public License,
 version 2.1**, whose full text is in `LICENSE.LGPL-2.1.txt` beside this file.
 
