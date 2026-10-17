@@ -1,4 +1,13 @@
+<div align="center">
+
 # WitchSpring R - English Voice Mod
+
+[![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-red?style=for-the-badge&logo=github)](https://github.com/drhouse/WitchspringR-English-Voice-Mod/releases)
+[![Status](https://img.shields.io/badge/STATUS-WORKING_%F0%9F%9F%A2-brightgreen?style=for-the-badge)](#features)
+[![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
+[![Platform](https://img.shields.io/badge/PLATFORM-Windows_10_%E2%80%A2_11-blue?style=for-the-badge)](#requirements)
+
+</div>
 
 English voice-over for every spoken line in *WitchSpring R*, produced by
 cross-lingually cloning the game's own Korean voice actors so each character
