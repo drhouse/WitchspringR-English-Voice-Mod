@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=4TGWJj0U9vk
 
 Do not copy a config file from anywhere: the plugin writes
 `BepInEx/config/wsr.englishvoice.cfg` on first run with paths correct for
-*your* installation.
+*your* installation. Everything else below is optional info.
 
 ## Configuration
 
